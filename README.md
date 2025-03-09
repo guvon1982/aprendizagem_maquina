@@ -6,8 +6,16 @@
 
 ##### :man_student:Aluno: Gustavo von Sperling - 2414290052
 
+##### :zap:GitHub: <https://github.com/guvon1982/aprendizagem_maquina.git>
+
 <br> 
 
-## :card_index_dividers: **Exercício 01*** - aula 01-2025-1
+## :card_index_dividers: **dever-01***
 
-**Código Google Lab*** - https://colab.research.google.com/drive/1BTqrm4kQDP5M67lpun7ayzLHE7S3FvrB?usp=sharing
+** https://drive.google.com/drive/folders/1w1ityMm83RLFgTc8QljxEE-1A8Fi-Odo?usp=sharing
+
+
+
+## :card_index_dividers: **dever-02**
+
+** https://drive.google.com/drive/folders/1z_9a_95Tcann361ytNSToq_oq8sD5JGJ?usp=sharing
