@@ -10,12 +10,10 @@
 
 <br> 
 
-## :card_index_dividers: **dever-01***
+## :card_index_dividers: **dever-01**
 
-** https://drive.google.com/drive/folders/1w1ityMm83RLFgTc8QljxEE-1A8Fi-Odo?usp=sharing
-
-
+https://drive.google.com/drive/folders/1w1ityMm83RLFgTc8QljxEE-1A8Fi-Odo?usp=sharing
 
 ## :card_index_dividers: **dever-02**
 
-** https://drive.google.com/drive/folders/1z_9a_95Tcann361ytNSToq_oq8sD5JGJ?usp=sharing
+* https://drive.google.com/drive/folders/1z_9a_95Tcann361ytNSToq_oq8sD5JGJ?usp=sharing
