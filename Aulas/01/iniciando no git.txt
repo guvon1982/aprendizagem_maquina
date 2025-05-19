@@ -1,0 +1,17 @@
+• Crie um repositório no git. 
+
+• Sincronize-o com um diretório na sua máquina.
+
+• No diretório da sua máquina, crie um arquivo hello.html (pode usar qualquer ferramenta. Para esse exercício sugiro o notepad) com a estrutura básica do HTML e a mensagem: “Oi Mundo!” no body.
+
+• Realizar um commit. 
+
+• Ir na sua conta do git e verificar se o arquivo subiu corretamente. Verifique o seu conteúdo.
+
+• Realizar uma alteração no arquivo local. Inserir mais uma linha na mensagem: “Segunda linha”
+
+• Fazer o commit com o comentário: “Linha acrescentada”
+
+• Fazer o PUSH
+
+• Conferir no GitHub se o arquivo foi atualizado.

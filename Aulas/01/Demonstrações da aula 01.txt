@@ -1,0 +1,68 @@
+"""
+#Teste 01
+x = 2
+y = 2
+
+print (x + y)
+
+#Teste 02
+x = "2"
+y = 2
+
+print (x + y)
+
+#Teste 03
+strFrase = "No Brasil, o melhor curso de ADS é do IESB."
+
+strPedaco01 = strFrase[1:5]
+
+print (strPedaco01)
+
+
+#Teste 04
+lisMinhaLista = [ "Pablo", 26, "janeiro"]
+print(len(lisMinhaLista))
+print (lisMinhaLista[1])
+lisMinhaLista[1] = "Atenção!"
+print (lisMinhaLista[1])
+
+#Teste 05
+lisMinhaLista = [ "Pablo", 26, "janeiro"]
+for item in lisMinhaLista:
+    print (item)
+
+
+#Teste 06
+i = 1
+lisMinhaLista = []
+while i < 5:     
+    lisMinhaLista.append (i)
+    i+=1
+x=0
+
+for item in lisMinhaLista:
+    x = x + item
+print (x)
+
+
+#Teste 07
+lisMinhaLista = [ "Pablo", 26, "janeiro"]
+for index, item in enumerate(lisMinhaLista):
+    if item == 26:
+        print ("Dia do aniversário é o item: " + str(index + 1))
+        break
+
+
+
+#Teste 08
+# Considerando o arqquivo CSV com os dados:
+# Nome, Dia nascimento
+# Pablo, 26
+# João, 27
+# Maria, 28
+
+import pandas as pd
+csvDados = pd.read_csv ('R:\\Users\\Pablo\\MeusDocumentos\\Pessoais\\IESB\\Máquinas que aprendem\\Códigos\\Aula01\\Exposição\\meuArquivoCSV.csv')
+print (csvDados['Nome'][1])
+"""
+

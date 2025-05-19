@@ -1,0 +1,10 @@
+# Importar os módulos do sistema operacional
+import os
+import locale
+
+# Instalar pt_BR
+!/usr/share/locales/install-language-pack pt_BR
+!dpkg-reconfigure locales pt_BR
+
+# Reiniciar o processo Python
+os.kill(os.getpid(), 9)
